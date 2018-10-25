@@ -1,0 +1,19 @@
+{
+  "name": "gulp-inline-temp",
+  "version": "0.0.1",
+  "description": "A gulp plugin to inline js/html files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hold-baby/gulp-inline-temp.git"
+  },
+  "author": "hold-baby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hold-baby/gulp-inline-temp/issues"
+  },
+  "homepage": "https://github.com/hold-baby/gulp-inline-temp#readme"
+}
