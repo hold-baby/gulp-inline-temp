@@ -1,6 +1,6 @@
 {
   "name": "gulp-inline-temp",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A gulp plugin to inline js/html files",
   "main": "index.js",
   "repository": {
@@ -8,6 +8,16 @@
     "url": "git+https://github.com/hold-baby/gulp-inline-temp.git"
   },
   "author": "hold-baby",
+  "keywords": [
+    "gulpplugin",
+    "inline",
+    "fileInline",
+    "template",
+    "render",
+    "precompile",
+    "html",
+    "js"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hold-baby/gulp-inline-temp/issues"
